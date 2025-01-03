@@ -22,3 +22,8 @@ coefficient, and transmissibility of a variety of foam specimens and select the 
 * Designed a novel CPR manikin incorporating a nested spring structure, a foam casing, a chest cover with rib-like extensions, and a
 tactile clicker together with a rate monitor to provide real-time compression depth and frequency feedback to the user
 * The project was one of the 10 projects (top 5%) to be nominated for the Best Bachelor's Thesis award among ~200 projects
+
+<p align="center">
+  <img src="images/abstract.PNG" alt="Graphical abstract">
+</p>
+<p align="center"><em>Figure 1: Graphical abstract.</em></p>
