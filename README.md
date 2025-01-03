@@ -8,6 +8,8 @@
 
 **Advisor:** Prof Atul Jain
 
+**YouTube video:** ["Bachelor's Thesis"](https://youtu.be/w_XICuOc98Y)
+
 ---
 
 ***Project objective:*** *Design and development of an economical, next-generation CPR training manikin*
